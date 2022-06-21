@@ -1,5 +1,29 @@
 {
-   
+   "tone_music": {
+    "abstract" : {
+      "thum" : "/img/tone_music_01.png",
+      "title" : "Tone Music",
+      "category" : "ロゴ制作",
+      "period" : "2022",
+      "tools" : "Figma、Illustrator",
+      "detail" : "実在しない団体やサービス、物語などを想像しながら作るロゴマーク。今回はとある地方ベンチャーが新しく制作した音楽アプリのロゴマークである。音質を劣化させるどころか向上させてストリーミングできるすごい仕組みを開発してしまった某社の音楽アプリは、今後世界中で普及することが予想されている。ロゴのモチーフにはピアノの鍵盤を用いた。",
+      "img" : ["/img/tone_music_01.png", "/img/tone_music_02.png", "/img/tone_music_03.png"],
+      "link" : "/works/tone_music",
+      "url" : ""
+    },  
+    "process" : [
+      {
+        "subtitle" : "",
+        "img" : "",
+        "detail" : ""
+      },  
+      {
+        "subtitle" : "",
+        "img" : "",
+        "detail" : ""
+      }  
+    ]  
+   },
 
   "biobacon" : {
     "abstract" : {
